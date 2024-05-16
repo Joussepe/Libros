@@ -2,7 +2,6 @@
 |---------------------------------|
 | Huaman Capcha, Estefani Abigail | 
 | Camargo Ambicho Joussepe Josué  |
-| Lorenzo Masgo Josue Eli   |
 
 
 ##  -class Libro:
